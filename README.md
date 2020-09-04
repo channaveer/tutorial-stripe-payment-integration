@@ -21,9 +21,11 @@ Installation Steps
     ```
 
 - Now add the stripe keys in .env file with same key name and your own stripe values
-  
+    
+    ```
     STRIPE_PUBLISH_KEY=pk_test...
     STRIPE_SECRET_KEY=sk_test...
+    ```
 
 ## Read More On
 
